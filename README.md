@@ -1,3 +1,3 @@
 # Website-Blocker
 
-A background application that blocks certain distracting websites during your working hours.
+A background application that blocks user-defined, distracting websites during your working hours.
