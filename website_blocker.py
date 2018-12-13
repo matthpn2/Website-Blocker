@@ -1,5 +1,5 @@
-import time 
 from datetime import datetime as dt
+import time 
 
 # store hosts file path, IP address to redirect browser and list of websites to be blocked
 hostsPath = r"/etc/hosts"
